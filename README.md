@@ -1,1 +1,1 @@
-# ynabe3-tech
+# use the html /css building blog pages 
